@@ -1,7 +1,15 @@
+body {
+  background-image: url('./img/bg-img.jpg');
+  background-size: cover;
+  font-family: cursive;
+  font-size: 18px;
+}
 .App {
   text-align: center;
 }
-
+.line-through{
+  text-decoration: line-through
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
